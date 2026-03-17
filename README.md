@@ -1,13 +1,14 @@
 # 📊 Maa Laxmi Store Sales Dashboard (Excel)
 
+![Dashboard](images/dashboard.png)
+
 ## 🔍 Overview
 Interactive Excel dashboard analyzing **Maa Laxmi Store's 2022 retail sales** across channels, states, categories, and customer segments.
 
 ---
 
 ## 🎯 Problem
-No centralized way to track:
-Sales | Customers | Channels | Order Status | Regional Performance  
+No centralized view to track → **Sales | Customers | Channels | Order Status | Regional Performance**
 
 ---
 
@@ -16,22 +17,21 @@ Sales | Customers | Channels | Order Status | Regional Performance
 **Records:** ~2300+ | **Year:** 2022  
 
 **Columns:**  
-Gender | Age | Age Group | Date | Month | Status | Channel | Category | Size | Qty | Amount | City  
+Gender | Age | Age Group | Month | Status | Channel | Category | Size | Qty | Amount | City  
 
 ---
 
-## 🛠️ Tools Used
-**Excel:** Pivot Tables | Pivot Charts | Slicers | Data Cleaning | Dashboard Design  
+## 🛠️ Tools
+**Excel:** Pivot Tables | Charts | Slicers | Data Cleaning | Dashboarding  
 
 ---
 
-## 📊 Dashboard Highlights
-- **Sales vs Orders:** Monthly trend  
-- **Gender Split:** Women vs Men contribution  
-- **Order Status:** Delivered | Cancelled | Returned | Refunded  
-- **Top States:** Maharashtra | Karnataka | UP | Telangana | Tamil Nadu  
-- **Age vs Gender:** Teen | Adult | Senior  
-- **Channels:** Amazon | Myntra | Flipkart | Ajio | Meesho  
+## 📊 Dashboard Insights
+- 👩 Women contribute **~60%+ sales**  
+- 🛒 **Amazon & Myntra** are top channels  
+- ✅ **~90% orders delivered**  
+- 📍 Top states: Maharashtra | Karnataka | UP  
+- 👥 Adults = highest buyers  
 
 ---
 
@@ -40,31 +40,24 @@ Month | Channel | Category
 
 ---
 
-## 📈 Key Insights
-- Women contribute **~60%+ sales**  
-- Amazon & Myntra dominate channels  
-- **~90%+ orders delivered**  
-- Adults = highest buyers  
-- Top states drive majority revenue  
-
----
-
 ## 🚀 Usage
-Download → Open Excel → Go to Dashboard → Use slicers  
+Download → Open Excel → Dashboard Sheet → Use slicers  
 
 ---
 
 ## 📂 Structure
 ```
 maa-laxmi-sales-dashboard-excel/
+├── images/dashboard.png
 ├── Maa Laxmi Store Data Analysis.xlsx
 ├── README.md
 └── LICENSE
 ```
+
 ---
 
 ## 💡 Skills
-EDA | Data Cleaning | Visualization | Dashboarding | Business Insights  
+EDA | Data Cleaning | Visualization | Dashboard Design | Business Insights  
 
 ---
 
